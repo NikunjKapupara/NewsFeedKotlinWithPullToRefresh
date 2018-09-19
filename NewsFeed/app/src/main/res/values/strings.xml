@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsFeeds</string>
+    <string name="loader_message">Please wait...</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="error_getting_data">An error occurred while fetching News data.</string>
+    <string name="error_no_internet">Please check your internet connection and try again...</string>
+    <string name="no_news_data">There is no News.</string>
+
+    <string name="exit_confirmation_msg">Do you want to exit from the application?</string>
+</resources>
