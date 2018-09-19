@@ -28,7 +28,7 @@ class NewsFeedListAdapter(private val cotext:Context,
 
         if (newsFeedListData[position].imageHref != null) {
             Glide.with(cotext).load(newsFeedListData[position].imageHref).into(holder.newsThumbIV)
-            holder.newsThumbIV
+            
         }
 
         /**
