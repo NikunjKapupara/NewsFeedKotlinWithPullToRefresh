@@ -8,3 +8,4 @@ Functionalities in this app.
 2. Made a web service API call and get the data.
 3. Bind web service API data in Recycler view with News Thumb Image, New Title, News Desc.
 4. Implement functionality of "Pull down to Refresh"
+5. Please find the working APK file in "Working APK File" folder.
